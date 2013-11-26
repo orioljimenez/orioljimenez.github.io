@@ -1,4 +1,4 @@
 orioljimenez.github.io
 ======================
 
-My KISS about page
+my personal about page
